@@ -1,6 +1,6 @@
 # Charles JSON (chlsj) Importer for Paw
 
-WIP Charles JSON importer for Paw (PRs, suggestions, etc. are always welcome) 😁
+WIP Charles Proxy JSON (used in Charles for iOS) importer for Paw (PRs, suggestions, etc. are always welcome) 😁
 
 ## TODO:
 
